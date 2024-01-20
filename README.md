@@ -1,8 +1,8 @@
 - 👋 Hi, I am Kathy Terlesky representing @CabellFamSociety
 - 👀 This is the repository for genealogy data analysis for the Cabell Family Society (www.cabell.com)
-- - 🌱 I’m currently learning mapping genealogy data with folium in Jupyter Notebooks
-- 💞️ I’m looking to collaborate on genealogy data analysis with python
 - 📫 How to reach me katherine.terlesky@gmail.com
+- Jupyter Notebooks showing data manipulation from RootsMagic
+- Also preparation of data from enslaved persons at Union Hill (1790-1865) for publication
 
 <!---
 CabellFamSociety/CabellFamSociety is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
